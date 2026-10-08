@@ -1,0 +1,21 @@
+# Secrets - never commit these
+.env
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Node.js
+node_modules/
+
+# Android
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+
+# OS files
+.DS_Store
